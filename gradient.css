@@ -1,0 +1,130 @@
+.userPopout-2j1gM4[data-user-id="681816758973366365"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[vz-user-id="681816758973366365"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[data-user-id="400618023075184650"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[vz-user-id="400618023075184650"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[data-user-id="334347671408214020"]::before .profileBadges-2pItdR::before, .userPopout-2j1gM4[vz-user-id="334347671408214020"]::before .profileBadges-2pItdR::before {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 17px;
+  margin: 1.5px 6px 0 0;
+  pointer-events: none;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") center/100% no-repeat;
+}
+.userPopout-2j1gM4[data-user-id="368399721494216706"] .profileBadges-2pItdR::before, .userPopout-2j1gM4[vz-user-id="368399721494216706"] .profileBadges-2pItdR::before {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 17px;
+  margin: 1.5px 6px 0 0;
+  pointer-events: none;
+  background: url("https://cdn.discordapp.com/emojis/741177030850248824.png?quality=lossless") center/100% no-repeat;
+}
+
+.member-2gU6Ar .wrapper-1VLyxH[data-user-id="681816758973366365"]::before, .member-2gU6Ar .wrapper-1VLyxH[vz-user-id="681816758973366365"]::before, .member-2gU6Ar .wrapper-1VLyxH[data-user-id="400618023075184650"]::before, .member-2gU6Ar .wrapper-1VLyxH[vz-user-id="400618023075184650"]::before, .member-2gU6Ar .wrapper-1VLyxH[data-user-id="334347671408214020"]::before, .member-2gU6Ar .wrapper-1VLyxH[vz-user-id="334347671408214020"]::before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  bottom: -3px;
+  left: -5px;
+  z-index: 2;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") no-repeat;
+  background-size: 85%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+.member-2gU6Ar .wrapper-1VLyxH[data-user-id="368399721494216706"]::before, .member-2gU6Ar .wrapper-1VLyxH[vz-user-id="368399721494216706"]::before {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  bottom: -3px;
+  left: -5px;
+  z-index: 2;
+  background: url("https://cdn.discordapp.com/emojis/741177030850248824.png?quality=lossless") no-repeat;
+  background-size: 85%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+
+.message-2CShn3[data-user-id="368399721494216706"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="368399721494216706"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="368399721494216706"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="368399721494216706"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="368399721494216706"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="368399721494216706"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="368399721494216706"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="368399721494216706"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="368399721494216706"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="368399721494216706"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(60deg, #ccf9ff, #7ce8ff, #55d0ff, #00acdf, #0080bf, #00acdf, #55d0ff, #7ce8ff, #ccf9ff);
+}
+
+.message-2CShn3[data-user-id="681816758973366365"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="681816758973366365"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="681816758973366365"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="681816758973366365"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="681816758973366365"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="681816758973366365"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="681816758973366365"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="681816758973366365"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="681816758973366365"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="681816758973366365"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 6s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #00a6ff, #8300e0, #e823a1, #f3d910, #ffffff, #ffa5d8, #ffffff, #f3d910, #e823a1, #8300e0, #00a6ff);
+}
+
+.message-2CShn3[data-user-id="400618023075184650"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="400618023075184650"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="400618023075184650"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="400618023075184650"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="400618023075184650"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="400618023075184650"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="400618023075184650"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="400618023075184650"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="400618023075184650"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="400618023075184650"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: 600;
+  background-size: 300%;
+  animation: shine-reversed 7s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #65b6ec, #4ed6f5, #b8d2ec, #84c7ee, #7bebf4, #84c7ee, #b8d2ec, #4ed6f5, #65b6ec);
+}
+
+.message-2CShn3[data-user-id="334347671408214020"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[data-author-id="334347671408214020"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
+.message-2CShn3[vz-user-id="334347671408214020"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="334347671408214020"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="334347671408214020"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="334347671408214020"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="334347671408214020"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="334347671408214020"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="334347671408214020"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="334347671408214020"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 7s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(90deg, #89c7e7, #add8e5, #c4ebf1, #ffffc2, #fff684, #ffd301, #fff684, #ffffc2, #c4ebf1, #add8e5, #89c7e7);
+}
+
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}
+
+/*# sourceMappingURL=gradient.css.map */
