@@ -8,12 +8,16 @@
   &[vz-user-id="681816758973366365"],
 
   // Marceline
-  &[data-user-id="334347671408214020"]::before,
-  &[vz-user-id="334347671408214020"]::before,
+  &[data-user-id="334347671408214020"],
+  &[vz-user-id="334347671408214020"],
 
   // DaCoolBot
-  &[data-user-id="947808159983108137"]::before,
-  &[vz-user-id="947808159983108137"]::before {
+  &[data-user-id="947808159983108137"],
+  &[vz-user-id="947808159983108137"],
+
+  // Booo
+  &[data-user-id="759424873042149377"],
+  &[vz-user-id="759424873042149377"] {
     .profileBadges-2pItdR::before {
       content: "";
       position: relative;
@@ -70,7 +74,11 @@
 
   // DaCoolBot
   &[data-user-id="947808159983108137"]::before,
-  &[vz-user-id="947808159983108137"]::before {
+  &[vz-user-id="947808159983108137"]::before,
+
+  // Booo
+  &[data-user-id="759424873042149377"]::before,
+  &[vz-user-id="759424873042149377"]::before {
     content: "";
     position: absolute;
     width: 18px;
@@ -297,6 +305,43 @@
     #f07470,
     #ea4c46,
     #dc1c13
+  );
+}
+
+// Booo
+.message-2CShn3[data-user-id="759424873042149377"]
+  > :not(.repliedMessage-3Z6XBG)
+  .username-h_Y3Us,
+.message-2CShn3[data-author-id="759424873042149377"]
+  > :not(.repliedMessage-3Z6XBG)
+  .username-h_Y3Us,
+.message-2CShn3[vz-user-id="759424873042149377"] .username-h_Y3Us,
+.channel-1Shao0[data-user-id="759424873042149377"] .overflow-1wOqNV,
+.channel-1Shao0[vz-user-id="759424873042149377"] .overflow-1wOqNV,
+.member-2gU6Ar[data-user-id="759424873042149377"] .roleColor-nA7BqX,
+.member-2gU6Ar[vz-user-id="759424873042149377"] .roleColor-nA7BqX,
+.userPopout-2j1gM4[data-user-id="759424873042149377"] .username-3JLfHz,
+.userPopout-2j1gM4[vz-user-id="759424873042149377"] .username-3JLfHz,
+.root-8LYsGj[data-user-id="759424873042149377"] .username-3JLfHz {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine-reversed 6s linear infinite;
+  -webkit-background-clip: text;
+
+  background-image: linear-gradient(
+    -60deg,
+    #97d7d7,
+    #d3d3ff,
+    #e9f0d0,
+    #416613,
+    #310305,
+    #020605,
+    #310305,
+    #416613,
+    #e9f0d0,
+    #d3d3ff,
+    #97d7d7
   );
 }
 
