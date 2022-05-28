@@ -117,7 +117,7 @@
   background-size: 300%;
   animation: shine-reversed 7s linear infinite;
   -webkit-background-clip: text;
-  background-image: linear-gradient(-60deg, #65b6ec, #4ed6f5, #b8d2ec, #84c7ee, #7bebf4, #84c7ee, #b8d2ec, #4ed6f5, #65b6ec);
+  background-image: linear-gradient(-60deg, rgb(171, 226, 251) 12%, rgb(104, 183, 254) 31%, rgb(19, 118, 245) 54%, rgb(27, 69, 247) 76%, rgb(198, 193, 244) 94%);
 }
 
 .message-2CShn3[data-user-id="334347671408214020"] > :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
